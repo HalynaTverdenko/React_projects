@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 10px;
+    background-color: antiquewhite;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color: violet;
+    font-size: 50px;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
